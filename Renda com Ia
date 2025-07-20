@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Renda com IA - Curso Completo</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; color: #333; padding: 20px; max-width: 800px; margin: auto; }
+    h1, h2 { color: #2c3e50; }
+    .highlight { background: #e3f2fd; padding: 10px; border-left: 5px solid #2196f3; }
+    .cta-button {
+      display: inline-block;
+      background: #2196f3;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    ul { margin-top: 10px; }
+  </style>
+</head>
+<body>
+
+  <h1>Ganhe Dinheiro com Inteligência Artificial Mesmo Sem Saber Nada de Tecnologia!</h1>
+  <h2>Aprenda a usar o ChatGPT para criar produtos digitais, vender serviços online e gerar renda mesmo começando do zero.</h2>
+
+  <div class="highlight">
+    <h2>O Problema</h2>
+    <p>Milhares de pessoas querem ganhar dinheiro online, mas não sabem por onde começar. A inteligência artificial está mudando tudo — e você ainda está a tempo de aproveitar.</p>
+  </div>
+
+  <div class="highlight">
+    <h2>A Solução</h2>
+    <p>O curso <strong>'Renda com IA'</strong> ensina passo a passo como você pode criar ebooks, montar páginas de vendas, gerar conteúdo e até prestar serviços usando o ChatGPT.</p>
+  </div>
+
+  <h2>O que você vai aprender:</h2>
+  <ul>
+    <li>✔️ Criar ebooks em minutos</li>
+    <li>✔️ Vender serviços com IA (social media, blog, tradução)</li>
+    <li>✔️ Gerar conteúdo viral para redes sociais</li>
+    <li>✔️ Aprender copywriting com IA</li>
+    <li>✔️ Automatizar tarefas para escalar sua renda</li>
+  </ul>
+
+  <h2>Bônus Exclusivos:</h2>
+  <ul>
+    <li>🎁 Modelo de ebook pronto</li>
+    <li>🎁 Pack de 50 prompts para IA</li>
+    <li>🎁 Grupo exclusivo com suporte e networking</li>
+  </ul>
+
+  <h2>Garantia</h2>
+  <p>Você conta com <strong>7 dias de garantia incondicional</strong> para testar o curso sem risco!</p>
+
+  <a class="cta-button" href="#" target="_blank">Clique aqui e comece agora mesmo!</a>
+
+  <h2>Sugestões de Títulos + Gatilhos Mentais</h2>
+  <ul>
+    <li><strong>Títulos:</strong>
+      <ul>
+        <li>Transforme o ChatGPT em sua máquina de fazer dinheiro!</li>
+        <li>Descubra como pessoas comuns estão faturando com IA todos os dias</li>
+        <li>Você só precisa de um celular, ChatGPT e 20 minutos por dia</li>
+      </ul>
+    </li>
+    <li><strong>Gatilhos mentais:</strong>
+      <ul>
+        <li>Escassez: Vagas limitadas com suporte direto!</li>
+        <li>Urgência: Aprenda hoje e já comece a vender amanhã</li>
+        <li>Autoridade: Baseado na tecnologia usada pela OpenAI</li>
+        <li>Prova social: Mais de 1.000 alunos já estão lucrando</li>
+      </ul>
+    </li>
+  </ul>
+
+</body>
+</html>
